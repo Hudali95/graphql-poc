@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# docs
+/docs
+/esdoc
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.history
+.DS_Store
+.history
+.env.*
+.env
+.vscode
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
